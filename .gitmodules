@@ -1,0 +1,3 @@
+[submodule "aws-cross-account-iam-access"]
+	path = aws-cross-account-iam-access
+	url = https://github.com/chatrapathyee/aws-cross-account-iam-access.git
