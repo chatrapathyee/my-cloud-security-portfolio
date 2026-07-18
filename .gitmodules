@@ -4,3 +4,6 @@
 [submodule "vpc-infrastructure-as-code"]
 	path = vpc-infrastructure-as-code
 	url = https://github.com/chatrapathyee/vpc-infrastructure-as-code.git
+[submodule "cicd-security-pipeline"]
+	path = cicd-security-pipeline
+	url = https://github.com/chatrapathyee/cicd-security-pipeline.git
