@@ -1,3 +1,6 @@
 [submodule "aws-cross-account-iam-access"]
 	path = aws-cross-account-iam-access
 	url = https://github.com/chatrapathyee/aws-cross-account-iam-access.git
+[submodule "vpc-infrastructure-as-code"]
+	path = vpc-infrastructure-as-code
+	url = https://github.com/chatrapathyee/vpc-infrastructure-as-code.git
