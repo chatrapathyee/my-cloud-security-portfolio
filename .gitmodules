@@ -7,3 +7,6 @@
 [submodule "cicd-security-pipeline"]
 	path = cicd-security-pipeline
 	url = https://github.com/chatrapathyee/cicd-security-pipeline.git
+[submodule "cloud-security-audit"]
+	path = cloud-security-audit
+	url = https://github.com/chatrapathyee/cloud-security-audit.git
